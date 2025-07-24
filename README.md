@@ -18,7 +18,8 @@ For every topic  in Python, I build a small project around it.
 | # | Project | Concept | Link |
 |---|---------|---------|------|
 | 1 | BirthDay-Wisher | SMTP (for email) , managedates (datetime)| [View Repo](https://github.com/Rehanabbaxi/BirthDay-Wisher) |
-| 3 | Flash_Card_APP | Tkinter GUI, pandas | [View Repo](https://github.com/Rehanabbaxi/Flash_Card_APP) |
+| 2 | Flash_Card_APP | Tkinter GUI, pandas | [View Repo](https://github.com/Rehanabbaxi/Flash_Card_APP) |
+| 3 | ISS Overhead Notifier | API , SMTP | [View Repo](https://github.com/Rehanabbaxi/ISS-Overhead-Notifier/tree/main) |
 | … | *(more coming soon!)* | | |
 
 > ✨ **Tip:** Click on a project link to explore the code, read the instructions, and try it yourself.

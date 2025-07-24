@@ -1,7 +1,7 @@
 # 🐍 Python Learning Projects
 
-This repository is an **index of all my Python projects** — ranging from **very basic to advanced concepts**.  
-For every topic I learn in Python, I build a small project around it so I can **learn by building**.
+This repository is an **index of all my Python mini projects** — ranging from **very basic to advanced concepts**.  
+For every topic  in Python, I build a small project around it.
 
 ---
 

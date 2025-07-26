@@ -21,6 +21,7 @@ For every topic  in Python, I build a small project around it.
 | 2 | Flash_Card_APP | Tkinter GUI,pandas | [View Repo](https://github.com/Rehanabbaxi/Flash_Card_APP) |
 | 3 | ISS Overhead Notifier | API,SMTP | [View Repo](https://github.com/Rehanabbaxi/ISS-Overhead-Notifier/tree/main) |
 | 4 | Quiz_App | OOPS,API,GUI | [View Repo](https://github.com/Rehanabbaxi/Quiz_App/tree/main) |
+| 5 | Rain_Alert | API,env variable | [View Repo](https://github.com/Rehanabbaxi/Rain_Alert) |
 | … | *(more coming soon!)* | | |
 
 > ✨ **Tip:** Click on a project link to explore the code, read the instructions, and try it yourself.

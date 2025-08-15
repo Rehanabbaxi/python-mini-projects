@@ -1,7 +1,7 @@
 # 🐍 Python Mini Projects
 
 This repository is an **index of all my Python mini projects** — ranging from **very basic to advanced concepts**.  
-For every topic  in Python, I build a small project around it.
+For every topic  in Python, I build a small project around it to learn pthon for general purpose instead of core machine leanrning purpose
 
 ---
 
